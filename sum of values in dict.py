@@ -13,3 +13,7 @@ def returnSum(myDict):
 
 dict = {'a': 100, 'b': 200, 'c': 300}
 print("Sum :", returnSum(dict))
+
+
+Output: 
+Sum : {'a': 600, 'b': 600, 'c': 600}
